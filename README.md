@@ -1,2 +1,2 @@
 # Junior-code
-For learning Python &amp; Linux foundation
+For learning Python &C++ &amp; Linux foundation
